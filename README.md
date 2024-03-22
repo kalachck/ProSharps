@@ -1,2 +1,2 @@
 # ProSharps
-This repo related to ProSharps tasks, sources and etc.
+This repository contains resources related to ProSharps.
