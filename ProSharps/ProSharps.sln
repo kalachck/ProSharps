@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{79106164-06A7-4C5C-88B4-25680B7AC737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{F4FD06A0-6FAF-4D2D-95EC-1FC901CE3BB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79106164-06A7-4C5C-88B4-25680B7AC737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79106164-06A7-4C5C-88B4-25680B7AC737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79106164-06A7-4C5C-88B4-25680B7AC737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79106164-06A7-4C5C-88B4-25680B7AC737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4FD06A0-6FAF-4D2D-95EC-1FC901CE3BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4FD06A0-6FAF-4D2D-95EC-1FC901CE3BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4FD06A0-6FAF-4D2D-95EC-1FC901CE3BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4FD06A0-6FAF-4D2D-95EC-1FC901CE3BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
