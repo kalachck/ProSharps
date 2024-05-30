@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{F4FD06A0-6FAF-4D2D-95EC-1FC901CE3BB6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Base", "Base", "{450B518F-CC32-4A08-94A0-53A0524EB43B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F4FD06A0-6FAF-4D2D-95EC-1FC901CE3BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4FD06A0-6FAF-4D2D-95EC-1FC901CE3BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4FD06A0-6FAF-4D2D-95EC-1FC901CE3BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{79106164-06A7-4C5C-88B4-25680B7AC737} = {450B518F-CC32-4A08-94A0-53A0524EB43B}
+		{F4FD06A0-6FAF-4D2D-95EC-1FC901CE3BB6} = {450B518F-CC32-4A08-94A0-53A0524EB43B}
 	EndGlobalSection
 EndGlobal
